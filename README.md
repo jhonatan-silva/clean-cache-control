@@ -1,5 +1,5 @@
 # clean-cache-control
-Clean Architecture &amp; Typescript
+Clean Architecture & Typescript & Jest
 
 
 ## Run tests
